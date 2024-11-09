@@ -1,0 +1,117 @@
+body {
+    background-color: #dfc8ed !important;
+}
+
+h1 {
+    font-size: 1.5em;
+    color: #674188 !important;
+    text-align: center;
+    font-family: "Quicksand", sans-serif;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    letter-spacing: 1.5px;
+    font-weight: bold;
+}
+
+#Zona-encabezado {
+    background-color: #F7EFE5;
+    text-align: center;
+    font-family: "Arial", sans-serif;
+    width: auto;
+    padding-bottom: .5em;
+    padding-top: .5em;
+    margin-bottom: 1em;
+}
+
+.texto-encabezado {
+    text-align: center;
+    font-family: "Arial", sans-serif;
+    color: #262627;
+}
+
+#Zona-imagen {
+    background-color: #E2BFD9;
+    width: auto;
+    margin-bottom: 1em;
+    padding: 2em;
+}
+
+img {
+    width: 30%;
+}
+
+#Zona-final {
+    background-color: #F7EFE5;
+    width: auto;
+    padding-bottom: .3em;
+    padding-top: .3em;
+    margin-bottom: 1em;
+}
+
+.tetxo-principal {
+    text-align: justify;
+    font-family: "Arial", sans-serif;
+    color: #262627;
+    margin: 1em;
+    margin-bottom: 1em;
+}
+
+.texto-final {
+    text-align: center;
+    font-family: "Quicksand", sans-serif;
+    color: #674188;
+}
+
+.custom-navbar {
+    background-color: #C8A1E0;
+}
+
+.custom-navbar .nav-link {
+    color: #262627;
+}
+
+.custom-navbar .nav-link:hover {
+    color: #F7EFE5;
+}
+
+.custom-navbar .navbar-brand {
+    color: #674188;
+    font-family: "Parisienne", cursive;
+    font-weight: bold;
+   
+}
+
+.table {
+    box-shadow: 2px 2px 5px #6c6c73;
+    border-width: 3px;
+    border-color: #674188 
+}
+
+.table td {
+    background-color: #dfd5e6 !important;
+    border-width: 3px;
+    border-color: #674188
+  
+}
+
+.columnas {
+    text-align: center;
+    font-family: "Quicksand", sans-serif;
+    color: #674188;
+    font-weight: bold;
+}
+
+.inicio {
+    width: 250px; 
+    height: 200px;
+}
+
+.contenedor-flex {
+    display: flex; /* Habilita el uso de flexbox */
+    justify-content: space-between; /* Espacia las cajas a los lados */
+    padding: 3em; /* Espacio interno del contenedor */
+    width:auto ;
+    gap: 5px;
+    align-items: flex-start;
+    margin: 0px 0px 0px;
+}
